@@ -1,7 +1,7 @@
 import React from "react";
 
 import George_Church from "../../assets/4/Past_Diginitaries/George_Church.jpg";
-import Jason_Kelly from "../../assets/4/Past_Diginitaries/JAson_kelly.jpg";
+import Jason_Kelly from "../../assets/4/Past_Diginitaries/JAson_kelly.png";
 import Amy_Dickman from "../../assets/4/Past_Diginitaries/Amy_Dickman.jpg";
 import Phil_Ross from "../../assets/4/Past_Diginitaries/Phil_Ross.jpg";
 import JJHashtings from "../../assets/4/Past_Diginitaries/JJHashtings.jpg";
