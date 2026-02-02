@@ -1,5 +1,3 @@
-import React from "react";
-
 import George_Church from "../../assets/4/Past_Diginitaries/George_Church.jpg";
 import Jasonkelly from "../../assets/4/Past_Diginitaries/Jasonkelly.png";
 import Amy_Dickman from "../../assets/4/Past_Diginitaries/Amy_Dickman.jpg";
