@@ -1,7 +1,7 @@
 import React from "react";
 
 import George_Church from "../../assets/4/Past_Diginitaries/George_Church.jpg";
-import Jason_Kelly from "../../assets/4/Past_Diginitaries/Jason_kelly.png";
+import Jasonkelly from "../../assets/4/Past_Diginitaries/Jasonkelly.png";
 import Amy_Dickman from "../../assets/4/Past_Diginitaries/Amy_Dickman.jpg";
 import Phil_Ross from "../../assets/4/Past_Diginitaries/Phil_Ross.jpg";
 import JJHashtings from "../../assets/4/Past_Diginitaries/JJHashtings.jpg";
@@ -13,7 +13,7 @@ import Oron_Catts from "../../assets/4/Past_Diginitaries/Oron_Catts.jpg";
 const PastDignitaries = () => {
   const dignitaries = [
     { id: 1, name: "Prof. George Church", role: "Professor of Genetics, Harvard Medical School", img: George_Church },
-    { id: 2, name: "Dr. Jason Kelly", role: "CEO & Co-Founder, Ginkgo Bioworks Inc", img: Jason_Kelly },
+    { id: 2, name: "Dr. Jason Kelly", role: "CEO & Co-Founder, Ginkgo Bioworks Inc", img: Jasonkelly },
     { id: 3, name: "Dr. Amy Dickman", role: "Co-Founder and Chief Technical Officer, MycoWorks", img: Amy_Dickman },
     { id: 4, name: "Mr. Phil Ross", role: "Co-Founder and Chief Technical Officer, MycoWorks", img: Phil_Ross },
     { id: 5, name: "Dr. J.J. Hastings", role: "CEO, Analogs LLC", img: JJHashtings },
